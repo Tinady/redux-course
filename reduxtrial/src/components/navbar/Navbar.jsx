@@ -1,4 +1,4 @@
-import { ArrowDropDown } from "@material-ui/icons";
+
 import React from "react";
 import "./navbar.css";
 
@@ -28,7 +28,7 @@ const Navbar = () => {
             alt=""
           />
           <span className="navbarName">John</span>
-          <ArrowDropDown />
+          
         </div>
       </div>
     </div>
